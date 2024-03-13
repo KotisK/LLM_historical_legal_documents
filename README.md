@@ -1,1 +1,1 @@
-# LLM_historical_legal_documents
+# Towards LLM-based semantic analysis of historical legal documents

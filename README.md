@@ -36,7 +36,10 @@ The relationship of the parties in this case is the transfer of real property fr
 
 **ChatGPT-3.5:** Αυτό το κείμενο είναι γραμμένο στην αρχαία ελληνική γλώσσα (αρχαία ελληνική παράγωγη του κειμένου σε γράμματα). Πρόκειται για ένα νομικό έγγραφο ή ένα επίσημο κείμενο που περιγράφει μια νομική διαδικασία ή συμφωνία μεταξύ διάφορων ατόμων. Ο τρόπος γραφής και οι φράσεις που χρησιμοποιούνται αντιπροσωπεύουν τη γλώσσα που χρησιμοποιούνταν στην αρχαία Ελλάδα.
 
-*** Response Translation***
+**Prompt Tranlation**
+Can you understand this text?
+
+**Response Translation**
 **ChatGPT-3.5:**This text is written in Ancient Greek (Ancient Greek derivation of the text in letters). It is a legal document or an official text describing a legal procedure or agreement between different people. The style of writing and the phrases used represent the language used in ancient Greece.
 
 ## ChatGPT-3.5 vs Gemini/Bard metrics

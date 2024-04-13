@@ -6,6 +6,10 @@
 
 ## Examples
 
+## Transcription Phase
+
+![transcription_phase](https://github.com/AndreasSoularidis/LLM_historical_legal_documents/assets/20847732/6a04a4aa-4e4b-41c5-8c5c-b895ad393769)
+
 ### Phase 1 
 **Prompt:**
 
